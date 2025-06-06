@@ -1,4 +1,4 @@
-# Project #11: Medical Diagnostics
+# Project #12: Medical Diagnostics
 # Modulating an Electroneurogram for Early Detection of Multiple Sclerosis
 
 ● Explored electroneurogram (ENG) as a minimally-invasive method for sensorimotor stimulation of the vagus nerve           
